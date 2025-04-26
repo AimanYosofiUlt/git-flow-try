@@ -1,4 +1,4 @@
 fun main() {
-    val input = readln()
-    println("Hello $input in our system")
+    val name = readln()
+    println("Hello $name in our system")
 }
