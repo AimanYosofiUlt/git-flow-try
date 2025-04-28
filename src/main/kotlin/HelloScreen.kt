@@ -4,6 +4,6 @@ class HelloScreen {
     }
 
     fun doSomethingElse(): Boolean {
-        return false
+        return true
     }
 }
